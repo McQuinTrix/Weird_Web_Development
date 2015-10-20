@@ -4,6 +4,9 @@ A collection of stuff that are some unexpected or simple weird parts of web deve
 
 ##JavaScript
 
+- ```NaN```'s full-form is "Not a Number", but when you do this: ```typeof NaN === number``` which means is the type of ```NaN``` number ? It evaluates to ```true```.
+- 
+
 ##HTML
 
 ##CSS
