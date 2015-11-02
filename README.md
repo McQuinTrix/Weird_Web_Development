@@ -16,6 +16,8 @@ var result   = falseObj && true;
 alert(result); //true 
 ```
 
+(It is recommended never to use Boolean Object)
+
 ##HTML
 
 ##CSS
